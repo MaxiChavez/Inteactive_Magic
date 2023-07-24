@@ -1,1 +1,1 @@
-# Inteactive_Magic
+# Interactive_Magic
